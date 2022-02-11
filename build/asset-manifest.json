@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ca99026b.chunk.js",
+    "main.js.map": "/static/js/main.ca99026b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff8b6edc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff8b6edc.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.9daa7197.chunk.js": "/static/js/2.9daa7197.chunk.js",
+    "static/js/2.9daa7197.chunk.js.map": "/static/js/2.9daa7197.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
+    "static/js/2.9daa7197.chunk.js.LICENSE.txt": "/static/js/2.9daa7197.chunk.js.LICENSE.txt",
+    "static/media/about5.833c7767.jpg": "/static/media/about5.833c7767.jpg",
+    "static/media/avatar.bc52a4f6.png": "/static/media/avatar.bc52a4f6.png",
+    "static/media/blog1.dd670b56.jpg": "/static/media/blog1.dd670b56.jpg",
+    "static/media/css1.1ede4ec9.png": "/static/media/css1.1ede4ec9.png",
+    "static/media/css2.7c3ac61c.png": "/static/media/css2.7c3ac61c.png",
+    "static/media/css3.6695c4cb.png": "/static/media/css3.6695c4cb.png",
+    "static/media/css4.1da5b549.png": "/static/media/css4.1da5b549.png",
+    "static/media/design.8ecb3043.svg": "/static/media/design.8ecb3043.svg",
+    "static/media/game-dev.20147858.svg": "/static/media/game-dev.20147858.svg",
+    "static/media/intelligence.11bd2ab2.svg": "/static/media/intelligence.11bd2ab2.svg",
+    "static/media/js1.18400dc3.png": "/static/media/js1.18400dc3.png",
+    "static/media/js2.6a3fb993.png": "/static/media/js2.6a3fb993.png",
+    "static/media/js4.f7d89481.png": "/static/media/js4.f7d89481.png",
+    "static/media/react1.c1510f60.png": "/static/media/react1.c1510f60.png",
+    "static/media/react2.22939c01.png": "/static/media/react2.22939c01.png",
+    "static/media/react3.ef066073.png": "/static/media/react3.ef066073.png",
+    "static/media/react4.240eeef9.png": "/static/media/react4.240eeef9.png",
+    "static/media/react5.cd057ca4.png": "/static/media/react5.cd057ca4.png",
+    "static/media/react6.44b68aca.png": "/static/media/react6.44b68aca.png",
+    "static/media/resume.16df8d48.pdf": "/static/media/resume.16df8d48.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff8b6edc.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.9daa7197.chunk.js",
+    "static/js/main.ca99026b.chunk.js"
+  ]
+}
